@@ -70,6 +70,7 @@ DOMAIN,labstailwind.pa.googleapis.com
 DOMAIN,makersuite.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
 DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -89,6 +90,7 @@ DOMAIN,telemetry.aws-language-servers.us-east-1.amazonaws.com
 DOMAIN,us-central1-xi-labs.cloudfunctions.net
 DOMAIN,waa-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,www.google.com
 DOMAIN-SUFFIX,abacus.ai
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.azure.com

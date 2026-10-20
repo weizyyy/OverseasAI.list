@@ -12,6 +12,7 @@
 # IP-CIDR: 2
 # IP-ASN: 2
 # TOTAL: 496
+DOMAIN,accounts.google.com
 DOMAIN,ai-gateway.vercel.sh
 DOMAIN,ai.google.dev
 DOMAIN,aicode.googleapis.com
@@ -24,11 +25,9 @@ DOMAIN,antigravity.googleapis.com
 DOMAIN,api.cloudflare.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.jetbrains.ai
-DOMAIN,api.msn.com
 DOMAIN,api.ngc.nvidia.com
 DOMAIN,api.nvidia.com
 DOMAIN,api.statsig.com
-DOMAIN,assets.msn.com
 DOMAIN,auth.grazie.ai
 DOMAIN,auth.meta.com
 DOMAIN,aws-language-servers.us-east-1.amazonaws.com
@@ -54,13 +53,12 @@ DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,desktop-release.codewhisperer.us-east-1.amazonaws.com
 DOMAIN,firebaseappcheck.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
-DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,gemini.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN,google.com
 DOMAIN,grazie.aws.intellij.net
 DOMAIN,grok.x.com
 DOMAIN,identitytoolkit.googleapis.com
@@ -69,7 +67,6 @@ DOMAIN,idetoolkits.amazonwebservices.com
 DOMAIN,in.appcenter.ms
 DOMAIN,integrate.api.nvidia.com
 DOMAIN,labstailwind.pa.googleapis.com
-DOMAIN,location.microsoft.com
 DOMAIN,makersuite.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
@@ -82,20 +79,16 @@ DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,q.us-east-1.amazonaws.com
-DOMAIN,r.bing.com
 DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,securetoken.googleapis.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,services.bingapis.com
 DOMAIN,specs.q.us-east-1.amazonaws.com
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,sydney.bing.com
 DOMAIN,telemetry.aws-language-servers.us-east-1.amazonaws.com
 DOMAIN,us-central1-xi-labs.cloudfunctions.net
 DOMAIN,waa-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN,www.bing.com
 DOMAIN-SUFFIX,abacus.ai
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.azure.com
@@ -136,7 +129,6 @@ DOMAIN-SUFFIX,base44.com
 DOMAIN-SUFFIX,baseten.co
 DOMAIN-SUFFIX,beautiful.ai
 DOMAIN-SUFFIX,bfl.ai
-DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,blackforestlabs.ai
 DOMAIN-SUFFIX,bolt.new
 DOMAIN-SUFFIX,braintree-api.com
@@ -225,7 +217,6 @@ DOMAIN-SUFFIX,dreamgen.com
 DOMAIN-SUFFIX,dreamstudio.ai
 DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,dust.tt
-DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,eigent.ai
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
@@ -274,11 +265,8 @@ DOMAIN-SUFFIX,hedra.com
 DOMAIN-SUFFIX,helicone.ai
 DOMAIN-SUFFIX,heygen.ai
 DOMAIN-SUFFIX,heygen.com
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,higgsfield.ai
 DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hume.ai
 DOMAIN-SUFFIX,hyperbolic.ai
 DOMAIN-SUFFIX,hyperbolic.xyz

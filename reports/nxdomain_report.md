@@ -1,16 +1,16 @@
-# NXDOMAIN Report (2026-10-19 07:04:13Z)
+# NXDOMAIN Report (2026-11-18 09:25:14Z)
 
-Checked domains: 479
-OK: 476
-NXDOMAIN: 3
-UNKNOWN: 0
+Checked domains: 482
+OK: 479
+NXDOMAIN: 2
+UNKNOWN: 1
 
 Threshold: 3 consecutive NXDOMAIN
 
 ## Candidates
 - comfyci.org
-- comfyregistry.org
 - gateway.bingviz.microsoft.net
+- windsurf.build
 
 ## Unknowns
-- (none)
+- comfyci.org
